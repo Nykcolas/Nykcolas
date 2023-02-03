@@ -1,4 +1,5 @@
 # Opa! Eu sou o Nycolas!👋
+- 👨🏽‍🦳 Comecei na programação a um pouco mais de dois anos!
 - 🔭 Trabalho atualmente como desenvolvedor fullstak, e treinador dos recem chegados!
 - 🌱 Indo fundo em laravel, vue.js e flutter
 ##
@@ -14,7 +15,8 @@
 </span>  
  
 </br></br>
-
+##
+Essas são algumas linguagens com que trabalho ou já trabalhei!
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div style="display:inline_block;">
   <img align="center" height="40" width="50" alt="Nykcolas-vuejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
