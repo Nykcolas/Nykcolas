@@ -1,4 +1,4 @@
-# Opa! Eu sou o Nycolas!👋#
+# Opa! Eu sou o Nycolas!👋
 - 🔭 Trabalho atualmente como desenvolvedor fullstak, e treinador dos recem chegados!
 - 🌱 Indo fundo em laravel, vue.js e flutter
 ##
