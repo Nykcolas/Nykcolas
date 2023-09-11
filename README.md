@@ -1,5 +1,5 @@
 # Opa! Eu sou o Nycolas!👋
-- 👨🏽‍🦳 Comecei na programação a um pouco mais de dois anos!
+- 👨🏽‍🦳 trabalhando com programação desde 2020!
 - 🔭 Trabalho atualmente como desenvolvedor fullstak, e treinador dos recem chegados!
 - 🌱 Indo fundo em laravel, vue.js e flutter
 ##
